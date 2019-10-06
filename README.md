@@ -46,11 +46,11 @@ const users = [
 you should enter credintials of one of two static users in above array, then enter data of new contact that matched validation rules:
 inputs => authorization, deviceToken, fingerPrint, firstName, lastName, email, mobile
 
-#Second API: get all contacts for specific user (method: POST) (url: http://localhost:{port, or 8080}/contacts/getList)
+# Second API: get all contacts for specific user (method: POST) (url: http://localhost:{port, or 8080}/contacts/getList)
 you should enter credintials of one of two static users in above array:
 inputs => authorization, deviceToken, fingerPrint
 
-#Third API: get the recent five contacts for specific user (method: POST) (url: http://localhost:{port, or 8080}/contacts/getRecentList)
+# Third API: get the recent five contacts for specific user (method: POST) (url: http://localhost:{port, or 8080}/contacts/getRecentList)
 you should enter credintials of one of two static users in above array:
 inputs => authorization, deviceToken, fingerPrint
 
